@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satyendra01khedar
-- 👀 I’m interested in computative progrramin and cryptography
+- 👀 I’m interested in competitive programming and cryptography
 - 🌱 I’m currently learning dsa 
-- 💞️ I’m looking to collaborate on .with my collge colluge
+- 💞️ I’m looking to collaborate on projects with diverse fields
 - 📫 How to reach me .through email
 
 <!---
